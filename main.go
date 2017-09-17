@@ -11,7 +11,7 @@ import (
     "strings"
 )
 
-const sSourceFileName = "/Users/svengerskiy/Documents/RingCentral/hr/people/PeopleTest2017-09-12.csv"
+const sSourceFileName = "./test.csv"
 
 func parseHistory(s string) {
     ss := strings.Split(s,",")

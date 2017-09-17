@@ -1,0 +1,18 @@
+Dates:
+d/dd
+dd/dd
+d/dd/dd
+
+Num:
+ddd //r*1000
+dddd //d
+$d.dk //d*1000
+$dk //d*1000
+$d.d //d*1000
+dddf //fixed r*1000
+ddd/ddd //r[2]*1000
+
+Delimiters:
+_
+,
+(

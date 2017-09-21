@@ -1,0 +1,25 @@
+Dates:
+d/dd
+dd/dd
+d/dd/dd
+
+Num:
+ddd //r
+dddd //d
+$d.dk //d*1000
+$dk //d*1000
+$d.d //d*1000
+dk //d
+dddf //r
+ddd/ddd //r[2]
+ddd,ddd //r
+
+Delimiters:
+_
+,
+(
+
+Notice
+(ddd,xxx) inside. Should be pre-processed?
+
+//senseless comment
